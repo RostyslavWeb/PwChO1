@@ -16,3 +16,5 @@ Wyswietla logi z kontenera project
 Wyswietla liczbe warstw
 
 # Zad. 4
+## 1. docker build linkDoReposytoriumGit
+## 2. 
