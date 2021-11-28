@@ -16,5 +16,13 @@ Wyswietla logi z kontenera project
 Wyswietla liczbe warstw
 
 # Zad. 4
-## 1. docker build linkDoReposytoriumGit
-## 2. 
+Zbudowac obraz z githuba:
+## 1. docker build linkDoRepozytoriumGit
+Żeby zapisać obraz na dockerHub trzeba stworzyć konto
+Tworzymy repozytorium
+Logujemy się w terminalu
+## docker login
+Budujemy nasz obraz
+## 2. docker build -t username/nazwaRepozytorium .
+Pushujemy nasz obraz
+## docker push username/nazwaRepozytorium
